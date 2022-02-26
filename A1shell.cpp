@@ -1,6 +1,4 @@
 //Author :Ahmedh Shamsudeen 30121541
-//TA Code by Alex was used
-//TA Amir
 
 
 
